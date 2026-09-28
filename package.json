@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/vaultipv4",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vault identifiers and ipv4 tokens for idempotent workflows.",
+  "bin": {
+    "vaultipv4": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/vaultipv4.git"
+  },
+  "homepage": "https://theworker02.github.io/vaultipv4/",
+  "keywords": [
+    "vault",
+    "ipv4",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
